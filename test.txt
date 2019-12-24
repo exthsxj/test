@@ -8,4 +8,4 @@ bbbbbbb
 4444
 
 
-github edu
+edu
